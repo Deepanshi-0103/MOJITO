@@ -1,6 +1,7 @@
 import React from 'react'
 import Navbar from './components/Navbar'
 import { gsap } from "gsap";
+import About from './components/About'
 import Hero from './components/Hero'
 import {ScrollTrigger, SplitText} from "gsap/all";
 import Cocktails from './components/Cocktails';
