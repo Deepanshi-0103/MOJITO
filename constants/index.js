@@ -8,7 +8,7 @@ const navLinks = [
 	title: "About Us",
  },
  {
-	id: "work",
+	id: "art",
 	title: "The Art",
  },
  {
@@ -102,7 +102,7 @@ const goodLists = [
 
 const storeInfo = {
  heading: "Where to Find Us",
- address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
+ address: "Sky Deck, Orion Elite, Sector 18, Noida-201301",
  contact: {
 	phone: "(555) 987-6543",
 	email: "hello@jsmcocktail.com",
